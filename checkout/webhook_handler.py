@@ -6,7 +6,6 @@ from products.models import Product
 import json
 import time
 
-
 class StripeWH_Handler:
     """Handle Stripe webhooks"""
 
